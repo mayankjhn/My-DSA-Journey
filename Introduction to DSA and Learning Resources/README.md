@@ -13,7 +13,7 @@
 - Flowchart Basics 
   
 
-##Flowcharts helped me to visualize algorithm steps and their usage in planning solutions. However, the complexity of DSA seems intimidating at first, but I am excited to dive deeper.
+#Flowcharts helped me to visualize algorithm steps and their usage in planning solutions. However, the complexity of DSA seems intimidating at first, but I am excited to dive deeper.
 
 # Resources Used:
 1. Websites:
