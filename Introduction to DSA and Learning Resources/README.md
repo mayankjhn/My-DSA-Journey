@@ -1,4 +1,4 @@
-# Introduction to DSA and Flowcharts
+##Introduction to DSA and Flowcharts
 
 # Learned the fundamentals of Data Structures and Algorithms (DSA), its significance in problem-solving, and its real-world applications.
 
